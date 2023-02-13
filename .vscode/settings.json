@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Applications/Utilities/mysql-connector/mysql-connector-j-8.0.31.jar",
+        "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/**/*.jar",
+        "/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/**/*.jar"
+    ]
+}
